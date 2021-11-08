@@ -1,1 +1,1 @@
-# python-prac
+# JavaScript-prac
